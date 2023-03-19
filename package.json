@@ -2,7 +2,7 @@
   "name": "lzy_tapable",
   "version": "1.0.0",
   "description": "手写tapable库",
-  "main": "index.js",
+  "main": "/lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
